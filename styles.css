@@ -1,0 +1,12 @@
+body{
+    background-color: darkslategray;
+}
+.title{
+    font-size: 20px;
+}
+.description{
+    font-size: 14px;
+}
+.profile-image{
+    border-radius: 50%;
+}
